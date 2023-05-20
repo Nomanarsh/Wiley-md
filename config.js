@@ -6,19 +6,19 @@ import fs from 'fs'
 
 //Important & must be change #ATY
 global.owner = [
-  ['916207142994', 'Gariox 3D', true],
-    ['919172389527', 'Shizo The Techie', true]
+  ['919984654802', 'Noman Arsh', true],
+    ['919984654802', 'Noman Arsh', true]
 ] 
 global.prems = []
 
 
 //Make Changes #ATY
-global.bname = 'Wiley-md'     //Your Bot Name
-global.oname = 'Gariox & Shizo'     //Your Name
-global.onum = '919172389527' //Number for status forwarding 
-global.iglink = 'https://Instagram.com/error.mods'     //Your Instagram Link
+global.bname = 'Noman-MD'     //Your Bot Name
+global.oname = 'Noman Arsh'     //Your Name
+global.onum = '919984654802' //Number for status forwarding 
+global.iglink = 'https://instagram.com/khan_kamil_1888'     //Your Instagram Link
 global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
-global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
+global.gclink = 'https://chat.whatsapp.com/HsWCMhznfW81oT71yqlPCj' //Your WhatsApp Group Link
 global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
 
 
